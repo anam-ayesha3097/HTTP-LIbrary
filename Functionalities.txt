@@ -1,0 +1,2 @@
+Supports windows and linux
+Blocks unathorized access
